@@ -11,3 +11,13 @@ I also applied some mathematics and found the angle and distance of the disc fro
 
 Refer below link for Video
 https://drive.google.com/drive/folders/1Ximfg1-KuPpoy5ckm-h-RLROpXXloFu1?usp=sharing
+
+Refer below photo of detection
+
+![Screenshot_20220621-211836_Video Player](https://user-images.githubusercontent.com/59120929/174843444-5c07cb76-e281-4cd5-968a-23d6ff1d8f12.jpg)
+
+
+![Screenshot_20220621-211851_Video Player](https://user-images.githubusercontent.com/59120929/174843511-a56e9516-dd5d-40c4-943f-69c1264fe8ff.jpg)
+
+
+![Screenshot_20220621-211857_Video Player](https://user-images.githubusercontent.com/59120929/174843560-c831354e-bdee-441d-9c31-39cbb7d81733.jpg)
