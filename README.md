@@ -10,5 +10,4 @@ As a result, our objective is to identify the ball on the opponent's robot. Beca
 I also applied some mathematics and found the angle and distance of the disc from the camera. Hence, the distance and angle are achieved according to that data. I have to control the motor speed and give the horizontal and vertical angle, so I have to send this data to the Arduino from the Raspberry Pi. So, as this algorithm is deployed on the Raspberry Pi, I successfully established communication between the Raspberry Pi and Arduino. According to that data, I give the rpm to the motor and a perfect vertical and horizontal angle to the mechanism. 
 
 Refer below link for Video
-
 https://drive.google.com/drive/folders/1Ximfg1-KuPpoy5ckm-h-RLROpXXloFu1?usp=sharing
