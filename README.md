@@ -19,5 +19,5 @@ Refer below photo of detection:
 2)
 ![Screenshot_20220621-211851_Video Player](https://user-images.githubusercontent.com/59120929/174843511-a56e9516-dd5d-40c4-943f-69c1264fe8ff.jpg)
 
-3)
+3) Printing distance and angle data
 ![Screenshot_20220621-211857_Video Player](https://user-images.githubusercontent.com/59120929/174843560-c831354e-bdee-441d-9c31-39cbb7d81733.jpg)
